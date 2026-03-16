@@ -27,7 +27,7 @@ export const dances: Dance[] = [
     templeTraitions: "This dance form has deep connections to Hindu temple traditions, particularly in South India. The sculptures at Chidambaram, Thanjavur, and other temples depict many of the 108 karanas (dance poses) described in the Natyashastra.",
     philosophy: "Bharatanatyam embodies the concept of Natya Yoga — the path to spiritual liberation through dance. It expresses the Nava Rasas (nine emotions) and connects the dancer to the divine through movement, rhythm, and expression.",
     famousMudras: ["Anjali", "Alapadma", "Kartarimukha", "Pataka"],
-    imageUrl: "/placeholder.svg",
+    imageUrl: bharatanatyamImg,
   },
   {
     id: "kathak",
