@@ -39,7 +39,7 @@ export const dances: Dance[] = [
     templeTraitions: "Originally performed in temples and later in royal courts, Kathak carries the dual legacy of Hindu devotional traditions and Mughal courtly elegance. The Lucknow and Jaipur gharanas represent these different influences.",
     philosophy: "Kathak explores the interplay of time (taal) and space through intricate footwork and spins. It embodies the philosophy that rhythm is the heartbeat of the universe, and through mastery of rhythm, one can transcend the mundane.",
     famousMudras: ["Pataka", "Tripataka", "Mayura", "Hamsasya"],
-    imageUrl: "/placeholder.svg",
+    imageUrl: kathakImg,
   },
   {
     id: "odissi",
